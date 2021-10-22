@@ -1,0 +1,2 @@
+Como instalar o git no linux mint: apt install git
+O Git Bash é um terminal extendido para otimizar o uso do Git no Windows, no linux não é necessario, ou usar o zsh com o oh my zsh: https://ohmyz.sh/
